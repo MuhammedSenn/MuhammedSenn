@@ -8,11 +8,11 @@
 
 ### ✨ About Me  
 
-- 💼 Working as an **AI Engineer at Ono AI-Based HR Platform**  
-- 🎓 **Computer Engineering BSc**, currently pursuing my **MSc**  
-- 🤖 Developing AI systems with **LLMs, RAG pipelines, Computer Vision**, and scalable workflows  
-- 🧪 Strong background in **software testing & automation**, bringing QA perspective into AI development  
-- 🚀 Focused on building **real-world, production-ready AI solutions**  
+- 🧠 I like teaching machines to understand, reason, and make things work.  
+- 🧪 I also enjoy the craft of **breaking, testing, and improving software**.  
+- 🖼 Data, systems, and patterns are the things I naturally gravitate toward.  
+- 🚀 I care about building technology that feels simple, reliable, and genuinely useful.  
+- 📚 Always learning, always curious.  
 
 ---
 
@@ -39,10 +39,10 @@
 
 ### 📌 Currently Interested In  
 
-- 🧠 Building **LLM-based agents** for HR, interviews, automation & document understanding  
-- 🔍 Developing **RAG architectures** with vector search and hybrid retrieval  
-- 🖼 Working on **Computer Vision** problems (classification, detection, segmentation)  
-- 📈 Combining **AI engineering** with **QA mindset** to create robust ML systems  
+- 🤖 LLMs, smart agents, and retrieval-based AI  
+- 🔍 Quality engineering, automation, and systematic thinking  
+- 🖼 Vision models and understanding the world through images  
+- 📈 Clean architectures, predictable systems, and thoughtful design  
 
 ---
 
@@ -52,6 +52,7 @@
   <a href="https://www.linkedin.com/in/muhammed-sen/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
+  
   <a href="https://medium.com/@muhammedsenn">
     <img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white" />
   </a>
