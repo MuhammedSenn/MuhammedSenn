@@ -1,9 +1,6 @@
 <h2 align="center">Hi there, I'm Muhammed 👋</h2>
 
 
-
----
-
 ### ✨ About Me  
 
 - 🧠 I like teaching machines to understand, reason, and make things work.  
@@ -58,8 +55,6 @@
 
 ---
 
-### 📊 GitHub Activity Graph  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammedSenn&theme=github-dark)
 
 ### 📈 GitHub Stats  
 ![Muhammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammedSenn&show_icons=true&theme=tokyonight)
