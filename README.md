@@ -1,6 +1,7 @@
 <h2 align="center">Hi there, I'm Muhammed 👋</h2>
 
-<p align="center"><i>LLM destekli sistemler ve akıllı yapay zeka ajanları oluştururken aynı zamanda QA mühendisliğinde çalışıyorum.</i></p>
+<p align="center"><i>Building LLM-powered systems and intelligent AI agents, while also conducting various work in QA engineering.</i></p>
+
 ---
 
 
