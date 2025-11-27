@@ -1,8 +1,6 @@
 <h2 align="center">Hi there, I'm Muhammed 👋</h2>
 
-<p align="center">
-  <i>AI Engineer crafting practical solutions with Machine Learning & LLMs</i>
-</p>
+
 
 ---
 
@@ -52,11 +50,21 @@
   <a href="https://www.linkedin.com/in/muhammed-sen/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-  
+  &nbsp;
   <a href="https://medium.com/@muhammedsenn">
     <img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white" />
   </a>
 </p>
+
+---
+
+### 📊 GitHub Activity Graph  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammedSenn&theme=github-dark)
+
+### 📈 GitHub Stats  
+![Muhammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammedSenn&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedSenn&layout=compact&theme=tokyonight)
 
 ---
 
