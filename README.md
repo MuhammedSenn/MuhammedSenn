@@ -65,6 +65,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedSenn&layout=compact&theme=tokyonight)
 
----
 
-<p align="center"><i>"Build things that are simple, reliable, and genuinely useful."</i></p>
