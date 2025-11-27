@@ -1,5 +1,9 @@
 <h2 align="center">Hi there, I'm Muhammed 👋</h2>
 
+<p align="center"><i>Building QA solutions, LLM-powered systems, and intelligent AI agents.</i></p>
+
+---
+
 
 ### ✨ About Me  
 
@@ -13,7 +17,7 @@
 
 ### 🛠 Tech Stack & Interests  
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
