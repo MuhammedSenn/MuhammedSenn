@@ -60,9 +60,13 @@
 ---
 
 
-### 📈 GitHub Stats  
-![Muhammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammedSenn&show_icons=true&theme=tokyonight)
+### 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedSenn&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedSenn&theme=tokyonight&hide_border=true" alt="Muhammed's Streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedSenn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
