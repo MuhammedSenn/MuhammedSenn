@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-000000?logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-000000?logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" />
