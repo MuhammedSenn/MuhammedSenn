@@ -7,11 +7,11 @@
 
 ### ✨ About Me  
 
-- 🧠 I like teaching machines to understand, reason, and make things work.  
-- 🧪 I also enjoy the craft of breaking, testing, and improving software.  
-- 🖼 Data, systems, and patterns are the things I naturally gravitate toward.  
-- 🚀 I care about building technology that feels simple, reliable, and genuinely useful.  
-- 📚 Always learning, always curious.  
+- I like teaching machines to understand, reason, and make things work.  
+- I also enjoy the craft of breaking, testing, and improving software.  
+- Data, systems, and patterns are the things I naturally gravitate toward.  
+- I care about building technology that feels simple, reliable, and genuinely useful.  
+- Always learning, always curious.  
 
 ---
 
